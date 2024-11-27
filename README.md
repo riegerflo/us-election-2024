@@ -1,4 +1,4 @@
-# Analysis of Election Results in North Caroline
+# Analysis of Election Results in North Carolina
 
 There have been rumors about suspicious election results in swing states, saying that the number of bullet ballots (only voting for president and leaving everything else blank) was extremely high compared to other elections. In North Carolina these rumors said, that there was a rate of bullet ballots of 11%. This analysis tries to confirm these rumors.
 
